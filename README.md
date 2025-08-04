@@ -1,4 +1,4 @@
-# Organizations-teams-and-job-mobility
+# Organizations, teams, and job mobility
 This repository contains code to support [Organizations, teams, and job mobility: A social microdynamics approach inspired by a large US organization](https://arxiv.org/abs/2503.24117). Please contact the [corresponding author](https://arxiv.org/show-email/9c1ecd64/2503.24117) for more details.
 
 ## Example Data
